@@ -1,4 +1,4 @@
-package com.training.Strings;
+package com.training.strings;
 
 public class Main {
 
