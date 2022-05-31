@@ -1,5 +1,7 @@
 package com.training.loops;
 
+import com.training.oops.American;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -33,6 +35,8 @@ public class Main {
         for (int i = 0; i < arr.length; i++) {
             System.out.println(arr[i]);
         }
+        American amc = new American();
+        amc.talk();
 
     }
 }

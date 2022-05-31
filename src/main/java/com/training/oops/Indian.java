@@ -12,4 +12,9 @@ public class Indian implements PersonInterface {
         System.out.println("I Speak Telugu");
 
     }
+    @Override
+    public void talk()
+    {
+        System.out.println("I talk Telugu");
+    }
 }
